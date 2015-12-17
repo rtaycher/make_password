@@ -1,0 +1,7 @@
+[package]
+name = "make_password"
+version = "0.1.0"
+authors = ["Roman A. Taycher <rtaycher1987@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
